@@ -74,6 +74,7 @@ This organization is the AI Platform division of **[BrazilCo](https://github.com
 | Division | Focus |
 |---|---|
 | [BrazilCo](https://github.com/BrazilCo) | Software engineering, cloud, and enterprise solutions |
+| [BrazilCo Platforms](https://github.com/brazilco-platforms) | Cloud infrastructure, CI/CD, security, and platform reliability |
 | [BrazilCo AI Platform](https://github.com/brazilco-ai-platform) | AI infrastructure, ML pipelines, and intelligent systems |
 
 ---
