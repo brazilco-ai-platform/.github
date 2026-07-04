@@ -1,5 +1,7 @@
 # BrazilCo AI Platform
 
+![brazilco-ai-platform](https://img.shields.io/badge/BrazilCo%20AI%20Platform-IA%20%2F%20LLMOps-7C3AED?style=for-the-badge)
+
 > The AI engineering division of [BrazilCo](https://github.com/BrazilCo) — building production-grade AI infrastructure for Brazilian and global enterprises.
 
 ---
